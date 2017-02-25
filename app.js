@@ -35,5 +35,5 @@ var call2 = function(val, ind, array){
   return false;
 }
 
-console.log(myFilter(x, call1, xObj));
+console.log(myFilter(x, call1));
 console.log(myFilter(x, call2, xObj));
